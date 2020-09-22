@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T09:06:48.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Xcg9_NGCnfUHHQ-ga02Q" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T09:08:07.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TUo7pTU-eFyixlK3nymL" version="13.7.3" type="github">
   <diagram id="U6RHtBQ9fCyGon2_SxzG" name="Page-1">
     <mxGraphModel dx="705" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,10 +110,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E-XlT1YLTzaVHpHIz-wI-76" value="BigQuery" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery" parent="1" vertex="1">
+        <mxCell id="E-XlT1YLTzaVHpHIz-wI-76" value="数仓" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery" parent="1" vertex="1">
           <mxGeometry x="325" y="750" width="66" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="E-XlT1YLTzaVHpHIz-wI-77" value="Cloud Data&#xa;Fusion" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_data_fusion" parent="1" vertex="1">
+        <mxCell id="E-XlT1YLTzaVHpHIz-wI-77" value="算法服务" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_data_fusion" parent="1" vertex="1">
           <mxGeometry x="475" y="750" width="66" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="E-XlT1YLTzaVHpHIz-wI-78" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;strokeColor=#34A853;dashed=0;exitX=0.5;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="E-XlT1YLTzaVHpHIz-wI-73" target="E-XlT1YLTzaVHpHIz-wI-76" edge="1">
